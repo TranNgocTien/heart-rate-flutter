@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "200487423885",
+    "firebase_url": "https://heart-rate-ae678-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "heart-rate-ae678",
+    "storage_bucket": "heart-rate-ae678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200487423885:android:41085ba6a2600bd735b7c4",
+        "android_client_info": {
+          "package_name": "com.example.measure_heart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200487423885-krekfs6im4c2lbeoptul2liid6go0bip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9p3drNwW9h14PwIQHNr6bKUkRrBdAPXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200487423885-krekfs6im4c2lbeoptul2liid6go0bip.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "200487423885-gq63eoq9jj01lm03cujciqtl5rrcvme5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.measureHeart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
